@@ -1,3 +1,3 @@
-# Python Studies
+Studies
 
-A collection of codes and comments on my journey through python programming.
+A collection of codes and comments on my journey through technology.
