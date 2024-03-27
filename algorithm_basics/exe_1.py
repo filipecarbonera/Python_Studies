@@ -1,4 +1,4 @@
-# 2.2.1. Calcular a area de um retangulo.
+# 2.1.1. Calcular a area de um retangulo.
 print('''
 -----------------------------------------------------
  CALCULO DE AREA DE RETANGULO
