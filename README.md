@@ -1,5 +1,5 @@
-# Python Studies
+# Studies
 
-A TEST collection of codes and comments on my journey through python programming.
+A collection of codes and comments on my journey through python programming.
 
 This text is in git_studies branch and I want to merge it to main.
